@@ -1,9 +1,7 @@
 import 'package:chirp_frontend/main.dart';
-import 'package:chirp_frontend/screens/group_form/create_group_form.dart';
 import 'package:chirp_frontend/widgets/custom_icons.dart';
 import 'package:chirp_frontend/models/styles.dart';
 import 'package:chirp_frontend/singletons/user_data.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/gestures.dart';
 
 import 'package:flutter/material.dart';
