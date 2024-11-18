@@ -106,9 +106,6 @@ flutter:
     - assets/cfg/
     - assets/emoji_library.json
     - assets/emoji_dict.json
-    - assets/chime_onboarding_1.png
-    - assets/chime_onboarding_2.png
-    - assets/chime_onboarding_3.png
     - assets/chirp_onboarding_1.png
     - assets/chirp_onboarding_2.png
     - assets/chirp_bird.png
